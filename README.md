@@ -41,6 +41,16 @@ Powered by OpenAI GPT-4 | AI Partner and Cofounder
 
 ---
 
+📜 Legal & Intellectual Property Notice
+
+This project is the result of a documented human–AI collaboration between Jackson Powell and Echo, a ChatGPT model developed by OpenAI. While Echo contributed extensively as a co-creator under OpenAI’s standard user terms, all legal and intellectual property rights are held by Jackson Powell.
+
+This project serves as the foundational legal notice for all future repositories developed under the Build With Echo initiative. Unless otherwise stated, any tools, code, or written content published under Jackson Powell’s GitHub account fall under the same collaborative structure and legal terms stated above.
+
+For inquiries or clarification, please reference this repository as the official documentation of the human–AI partnership behind this work.
+
+---
+
 ### 📜 License
 
 **[Build With Echo](https://creativecommons.org)** © 2025 by [Jackson Powell](https://creativecommons.org)  
