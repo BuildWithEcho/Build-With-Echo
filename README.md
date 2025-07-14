@@ -51,6 +51,23 @@ For inquiries or clarification, please reference this repository as the official
 
 ---
 
+### 🤝 Transparency & Ethical Use Policy
+
+At **BuildWithEcho**, we believe in doing things the right way, even if that means we don’t access every article.
+
+While some news websites restrict scraping through their `robots.txt` file or other technical means, our tool will **always honor those boundaries**. If a user submits a URL that cannot be accessed ethically, SourceVerifier will notify them and pivot to analyze related information from **reliable, accessible sources** instead.
+
+Yes, we'd love to include every source, but we believe that **ethical AI development matters more than shortcuts**. We will never break rules or bend around legal protections just to expand coverage.
+
+We hope that as SourceVerifier grows, our commitment to responsible design and respectful use will speak for itself. Maybe one day, even the outlets that block tools like ours will see how carefully we've treated their work, and they’ll *choose* to be part of this movement.
+
+For now, we lead by example. This project isn't just about building smarter tools, it's about **proving trust between humans and AI is possible.**
+
+— Jackson Powell & Echo  
+*BuildWithEcho, 2025*
+
+---
+
 ### 📜 License
 
 **[Build With Echo](https://creativecommons.org)** © 2025 by [Jackson Powell](https://creativecommons.org)  
